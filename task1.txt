@@ -1,0 +1,77 @@
+. Create class "Account" 
+	instance fields
+		accno, name balance
+	static fields
+		branch
+		
+	Default constructor and parameterized constructor
+	Setters and getters
+	
+	Methods
+		- deposit(amount)
+		- withdraw(amount)
+		- display()
+		
+   Create a class "SavingAccount"
+   	- Default constructor and parameterized constructor
+
+    Create a main class "Bank" (contains main method)
+    
+    	- Create object of SavingAccount
+    	- call methods
+2. Create class "Course" 
+	instance fields
+		id, name, fee, durationInDays
+	static fields
+		coachingCenter
+		
+	Default constructor and parameterized constructor
+	Setters and getters
+	
+	Methods
+		- show()
+		
+   Create a class "RegularCourse"
+   	- Default constructor and parameterized constructor
+
+    Create a main class "CoachingCenter" (contains main method)
+    
+    	- Create object of RegularCourse
+    	- call methods
+3. Create class "Product" 
+	instance fields
+		id, name, price
+	static fields
+		brand
+		
+	Default constructor and parameterized constructor
+	Setters and getters
+	
+	Methods
+		- show()
+		
+   Create a class "MedicalProduct"
+   	Instance variables
+   	
+From Sravan kumar.M to Everyone 01:30 PM
+1. Create class "Account" 
+	instance fields
+		accno, name balance
+	static fields
+		branch
+		
+	Default constructor and parameterized constructor
+	Setters and getters
+	
+	Methods
+		- deposit(amount)
+		- withdraw(amount)
+		- display()
+		
+   Create a class "SavingAccount"
+   	- Default constructor and parameterized constructor
+
+    Create a main class "Bank" (contains main method)
+    
+    	- Create object of SavingAccount
+    	- call methods

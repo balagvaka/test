@@ -1,0 +1,28 @@
+1. Create an abstract  class "Loan"
+	Instance fields
+		id, amount
+	Default constructor and parameterized constructors
+2. Create an abstract class "Account"
+ 		Instance fields
+ 			accno, name, balance
+ 			
+ 		default constructor and parameterized constructor
+ 		setters and getters
+ 		
+ 		abstract method withdraw(amount)
+ 		deposit(amount) is not abstract method
+ 		show() that print balance
+ 		
+ 	Create a sub class "SavingAccount"
+ 		- default constructor and parameterized constructor
+ 		- Override withdraw(amount) method
+ 		(Balance can be ZERO but not -ve)	
+ 	
+ 	Create a sub class "OverdraftAccount"
+ 		- default constructor and parameterized constructor
+ 		- Override withdraw(amount) method
+ 		(Balance can be ZERO or -ve)
+ 		
+ 	Create a main class "Bank"
+ 		- Create objects of sub classes
+ 		- Call methods
